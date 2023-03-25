@@ -5,6 +5,7 @@
 Soy Ingeniero Industrial, profesional de las areas de Control de Gestion, BI y Data Analyst desde hace más de 10 años.
 
 Me he darrollado principalmente en empresas de Retail, aportando mis cnocmientos en las areas de Gestion Financiera, Gestion Logistica, Gestion Comercial entre otras.
+| 🏢 | 🏬 | 🚛 | 💻 | 📈 |
 
 Actualmente me encuentro desarrollando mis conocimientos en Python, SQL, MongoDB.
 
