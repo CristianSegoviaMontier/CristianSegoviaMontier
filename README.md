@@ -10,7 +10,7 @@ Me he darrollado principalmente en empresas de Retail, aportando mis cnocmientos
 
 Actualmente me encuentro desarrollando mis conocimientos en Python, SQL, MongoDB y GIT/GITHUB 😉
 </br>
-| 👌 | 👍 | 📖 | ✍️ |
+| 📖 | ✍️ | 👌 | 👍 |
 
 
 ## Tecnologías:
