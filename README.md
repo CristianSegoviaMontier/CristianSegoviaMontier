@@ -1,8 +1,6 @@
 # Hi there 👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/cris_segovia81)
-
 
 Soy Ingeniero Industrial, profesional de las areas de Control de Gestion, BI y Data Analyst desde hace más de 10 años.
 
@@ -18,7 +16,9 @@ Actualmente me encuentro desarrollando mis conocimientos en Python, SQL, MongoDB
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)]()
 [![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)]()
 </br>
+</br>
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/cris_segovia81?style=social)](https://twitter.com/cris_segovia81)
 
 <!--
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
