@@ -12,18 +12,18 @@ Actualmente me encuentro desarrollando mis conocimientos en Python, SQL, MongoDB
 
 ## Tecnologías:
 [![Essbase](https://img.shields.io/badge/Essbase-999999?style=for-the-badge)]()
-[![Essbase](https://img.shields.io/badge/Essbase-999999?style=for-the-badge)]()
-[![Hyperion](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=hyperion&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=bigquerylogoColor=white&labelColor=101010)]()
+[![Hyperion](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge)]()
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)]()
+[![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)]()
+[![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)]()
 </br>
-
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
-[![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=sql&logoColor=white&labelColor=101010)]()
-
 
 
 <!--
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+https://shields.io/
+
 **TianSeMo/TianSeMo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
