@@ -14,7 +14,8 @@ Actualmente me encuentro desarrollando mis conocimientos en Python, SQL, MongoDB
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)]()
 [![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)]()
-[![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)]()
+[![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge)]()
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)]()
 </br>
 </br>
 
