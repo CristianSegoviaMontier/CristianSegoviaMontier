@@ -11,7 +11,7 @@ Me he darrollado principalmente en empresas de Retail, aportando mis cnocmientos
 Actualmente me encuentro desarrollando mis conocimientos en Python, SQL, MongoDB.
 
 ## Tecnologías:
-[![Essbase](https://img.shields.io/badge/Essbase-999999?style=for-the-badge&logo=essbase&logoColor=white&labelColor=101010)]()
+[![Essbase](https://img.shields.io/badge/Essbase-999999?style=for-the-badge)]()
 [![Hyperion](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=hyperion&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=bigquerylogoColor=white&labelColor=101010)]()
