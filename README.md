@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hola a todos / Hello everyone / Olá a todos / Bonjour à tous / Hallo an alle 👋
 
 
 
@@ -10,7 +10,7 @@ Actualmente me encuentro desarrollando mis conocimientos en Python, SQL, MongoDB
 
 ## Tecnologías:
 [![Essbase](https://img.shields.io/badge/Essbase-999999?style=for-the-badge)]()
-[![Hyperion](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge)]()
+[![Hyperion](https://img.shields.io/badge/hyperion-FA7343?style=for-the-badge)]()
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)]()
 [![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)]()
